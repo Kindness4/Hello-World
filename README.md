@@ -1,2 +1,2 @@
 # Hello-World
-this is my repo
+This is Kindness
