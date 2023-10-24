@@ -1,3 +1,4 @@
 # Hello-World
-this is my repo
-hmm
+This is Kindness
+A computer science student
+I'm on GitHub
