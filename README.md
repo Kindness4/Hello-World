@@ -1,4 +1,4 @@
 # Hello-World
-This is Kindness
-A computer science student,
+This is Kindness,
+a computer science student,
 I'm on GitHub
